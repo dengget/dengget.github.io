@@ -1,5 +1,5 @@
 ## 灯得@GitHub
-本页面托管于 GitHub Pages，是[**灯得博客**](https://idengdede.github.io)的自留地。在大多数情况下，本页面在全球任何地区都能被快速无阻碍地访问。
+本页面托管于 GitHub Pages，是 [**灯得博客**](https://idengdede.github.io) 的自留地。在大多数情况下，本页面在全球任何地区都能被快速无阻碍地访问。
 
 ## 暗号
 五谷丰登
